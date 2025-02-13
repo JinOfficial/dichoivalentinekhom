@@ -1,4 +1,4 @@
-let messages = ["Đi mò?", "Đuyyyy", "CHắc chắn chua=((?", "Cho suy nghĩ lại =((!", "Đừng mè!", "Lần cuối nè!", "Huhuhu", "Tan vỡ💔"];
+let messages = ["Đi mò?", "Đuyyyy", "Chắc chắn chua=((?", "Cho suy nghĩ lại =((!", "Đừng mè!", "Lần cuối nè!", "Huhuhu", "Tan vỡ💔"];
 let noCount = 0;
 let noButton = document.getElementById("no");
 let yesButton = document.getElementById("yes");
