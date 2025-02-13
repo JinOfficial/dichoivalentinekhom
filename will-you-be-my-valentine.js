@@ -1,4 +1,4 @@
-let messages = ["Please?", "Give me a chance!", "Are you sure?", "Think again!", "You might regret this!", "One last chance!", "Pretty please?", "Don’t break my heart 💔"];
+let messages = ["Đi mò?", "Đuyyyy", "CHắc chắn chua=((?", "Cho suy nghĩ lại =((!", "Đừng mè!", "Lần cuối nè!", "Huhuhu", "Tan vỡ💔"];
 let noCount = 0;
 let noButton = document.getElementById("no");
 let yesButton = document.getElementById("yes");
@@ -22,7 +22,7 @@ function rejectLove() {
 function acceptLove() {
     document.getElementById("valentine").innerHTML = `
         <img src="https://media1.tenor.com/m/aEWN44So2ckAAAAC/kiss-kisses.gif" class="gif">
-        <div class="question">YAYAYYAYAYAYAY I LOVE YOU SO MUCH MY SWEET LITTLE KITTEN❤️</div>
+        <div class="question">HEHEHE IU THÍ :33❤️</div>
     `;
     launchConfetti();
     startHeartRain();
