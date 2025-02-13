@@ -21,7 +21,7 @@ function rejectLove() {
 
 function acceptLove() {
     document.getElementById("valentine").innerHTML = `
-        <img src="https://media1.tenor.com/m/aEWN44So2ckAAAAC/kiss-kisses.gif" class="gif">
+        <img src="https://i.pinimg.com/originals/d7/2f/c9/d72fc961a47eec1396864393ff33a566.gif" class="gif">
         <div class="question">HEHEHE IU THÍ :33❤️</div>
     `;
     launchConfetti();
